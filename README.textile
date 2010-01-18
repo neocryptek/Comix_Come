@@ -1,0 +1,13 @@
+Comix [Come Here!] is an addon for World of Warcraft (WoW).
+
+Adds sound for "[Death Grip]":http://www.wowhead.com/?spell=49576 to "Comix":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx.
+
+Usage: use the "[Death Grip]":http://www.wowhead.com/?spell=49576 ability
+
+Note that "Comix":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx is an optional dependency for this addon. It is designed to use "Comix":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx settings if present, but will function without it installed.
+
+h2. Links
+
+<b>Download the addon on "Curse":http://wow.curse.com/downloads/wow-addons/details/comix-come.aspx<br>
+Please report all bugs and feature requests to the "issue tracker":http://github.com/neocryptek/Comix_Come/issues<br>
+More addons by Neocryptek can be found on my "Curse profile":http://wow.curse.com/members/neocryptek.aspx<br>
