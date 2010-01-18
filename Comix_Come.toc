@@ -1,4 +1,4 @@
-## Interface: 30200
+## Interface: 30300
 ## Title: Comix |r[|cff8080ffCome Here!|r]
 ## Notes: Death Grip sound for Comix
 ## Version: 0.0.1
