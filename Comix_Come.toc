@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: Comix |r[|cff8080ffCome Here!|r]
 ## Notes: Death Grip sound for Comix
-## Version: 0.0.2
+## Version: 0.0.2.30300
 ## Author: Neocryptek
 ## DefaultState: enabled
 ## OptionalDeps: Comix
