@@ -1,3 +1,5 @@
+DISCONTINUED
+
 Comix [Come Here!] is an addon for World of Warcraft (WoW).
 
 Adds sound for "[Death Grip]":http://www.wowhead.com/?spell=49576 to "Comix":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx.
